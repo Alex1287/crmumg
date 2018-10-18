@@ -1,0 +1,53 @@
+Fri Oct  5 06:43:11 2018 [9120][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Fri Oct  5 06:46:50 2018 [8296][1][FATAL] Job runs too frequently, throttled to protect the system.
+Fri Oct  5 06:46:54 2018 [6704][1][FATAL] Job runs too frequently, throttled to protect the system.
+Fri Oct  5 07:55:35 2018 [9120][1][FATAL] Undefined index: module
+Fri Oct  5 07:55:35 2018 [9120][1][FATAL] Invalid or missing SubPanelDefinition property: subpanel_name
+Fri Oct  5 07:55:35 2018 [9120][1][FATAL] Failed to load original or custom subpanel data for eapm in 
+Fri Oct  5 07:59:43 2018 [9120][1][FATAL] log call at: modules/Administration/index.tpl:53 - MY_FRAME is not set
+Fri Oct  5 08:06:09 2018 [9120][1][FATAL] log call at: modules/Administration/index.tpl:53 - MY_FRAME is not set
+Fri Oct  5 08:08:07 2018 [9120][1][FATAL] log call at: modules/Administration/index.tpl:53 - MY_FRAME is not set
+Fri Oct  5 08:09:10 2018 [9120][1][FATAL] log call at: modules/Administration/index.tpl:53 - MY_FRAME is not set
+Fri Oct  5 08:09:43 2018 [9120][1][FATAL] log call at: modules/Administration/index.tpl:53 - MY_FRAME is not set
+Fri Oct  5 08:11:13 2018 [9120][1][FATAL] log call at: modules/Administration/index.tpl:53 - MY_FRAME is not set
+Fri Oct  5 08:12:38 2018 [9120][1][FATAL] log call at: modules/Administration/index.tpl:53 - MY_FRAME is not set
+Fri Oct  5 08:15:08 2018 [9120][1][FATAL] log call at: modules/Administration/index.tpl:53 - MY_FRAME is not set
+Fri Oct  5 08:16:16 2018 [9120][1][FATAL] log call at: modules/Administration/index.tpl:53 - MY_FRAME is not set
+Fri Oct  5 08:17:00 2018 [9120][1][FATAL] log call at: modules/Administration/index.tpl:53 - MY_FRAME is not set
+Fri Oct  5 08:18:08 2018 [9120][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Fri Oct  5 08:24:16 2018 [9120][1][FATAL] log call at: modules/Administration/index.tpl:53 - MY_FRAME is not set
+Fri Oct  5 08:35:37 2018 [9120][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:450 - styleChecked is not set
+Fri Oct  5 08:37:08 2018 [9120][1][FATAL] SugarPHPMailer encountered an error: SMTP Error: Could not authenticate.
+Fri Oct  5 08:37:08 2018 [9120][1][FATAL] SugarPHPMailer encountered an error: SMTP Error: Could not authenticate.
+Fri Oct  5 08:37:58 2018 [9120][1][FATAL] SugarPHPMailer encountered an error: SMTP Error: Could not authenticate.
+Fri Oct  5 08:37:58 2018 [9120][1][FATAL] SugarPHPMailer encountered an error: SMTP Error: Could not authenticate.
+Fri Oct  5 08:38:35 2018 [9120][1][FATAL] SugarPHPMailer encountered an error: SMTP Error: Could not authenticate.
+Fri Oct  5 08:38:35 2018 [9120][1][FATAL] SugarPHPMailer encountered an error: SMTP Error: Could not authenticate.
+Fri Oct  5 08:38:44 2018 [9120][1][FATAL] SugarPHPMailer encountered an error: SMTP Error: Could not authenticate.
+Fri Oct  5 08:38:44 2018 [9120][1][FATAL] SugarPHPMailer encountered an error: SMTP Error: Could not authenticate.
+Fri Oct  5 08:39:02 2018 [9120][1][FATAL] SugarPHPMailer encountered an error: The following From address failed: agarciar8@miumg.edu.gt : MAIL FROM command failed,Authentication Required. Learn more at
+ https://support.google.com/mail/?p=WantAuthError y8-v6sm2413775edd.43 - gsmtp
+,530,5.5.1
+Fri Oct  5 08:39:02 2018 [9120][1][FATAL] SugarPHPMailer encountered an error: The following From address failed: agarciar8@miumg.edu.gt : MAIL FROM command failed,Authentication Required. Learn more at
+ https://support.google.com/mail/?p=WantAuthError y8-v6sm2413775edd.43 - gsmtp
+,530,5.5.1SMTP server error: MAIL FROM command failed Detail: Authentication Required. Learn more at
+ https://support.google.com/mail/?p=WantAuthError y8-v6sm2413775edd.43 - gsmtp
+ SMTP code: 530 Additional SMTP info: 5.5.1
+Fri Oct  5 08:39:02 2018 [9120][1][FATAL] SugarPHPMailer encountered an error: The following From address failed: agarciar8@miumg.edu.gt : MAIL FROM command failed,Authentication Required. Learn more at
+ https://support.google.com/mail/?p=WantAuthError y8-v6sm2413775edd.43 - gsmtp
+,530,5.5.1SMTP server error: MAIL FROM command failed Detail: Authentication Required. Learn more at
+ https://support.google.com/mail/?p=WantAuthError y8-v6sm2413775edd.43 - gsmtp
+ SMTP code: 530 Additional SMTP info: 5.5.1
+Fri Oct  5 08:47:30 2018 [9120][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:450 - styleChecked is not set
+Wed Oct 10 06:00:17 2018 [9120][-none-][FATAL] SECURITY: User authentication for master failed
+Wed Oct 10 06:00:17 2018 [9120][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[master]
+Wed Oct 10 06:00:24 2018 [9120][-none-][FATAL] SECURITY: User authentication for master failed
+Wed Oct 10 06:00:24 2018 [9120][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[master]
+Wed Oct 10 06:00:41 2018 [9120][-none-][FATAL] SECURITY: User authentication for master failed
+Wed Oct 10 06:00:41 2018 [9120][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[master]
+Wed Oct 10 06:00:48 2018 [9120][-none-][FATAL] SECURITY: User authentication for master failed
+Wed Oct 10 06:00:48 2018 [9120][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[master]
+Wed Oct 10 06:02:26 2018 [9120][-none-][FATAL] SECURITY: User authentication for master failed
+Wed Oct 10 06:02:27 2018 [9120][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[master]
+Thu Oct 11 08:52:41 2018 [6024][-none-][FATAL] Could not connect to DB server localhost as suitecrm-owner. port : No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
